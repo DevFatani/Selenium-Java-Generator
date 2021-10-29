@@ -5,7 +5,7 @@
 
 > <b style="color:red;">SUPPORT </b>
    > * Support read HTML from <b>File</b> or <b>URL</b>
-   > * Support <span style="background-color: #ebd69d;">@FindBy(id = "css_element")</span>
+   > * Support <span style="background-color: #ebd69d;">@FindBy(id = "id_element")</span>
    > * Support <span style="background-color: #ebd69d;">@FindBy(css = "css_element")</span>
    > * Build function to click on item
    > * You can custom your <b>REGEX</b> pattern
