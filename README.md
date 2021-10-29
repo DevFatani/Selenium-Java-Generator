@@ -29,32 +29,35 @@
 ```
 * <b>Third:</b> You will see message output follow the instructions
 
-* <b>Forth:</b> Follow the following youtube video for more information
+* <b>Forth:</b> Follow the following youtube video for more information 👇🏻
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dPiLuKoPOyI/0.jpg)](https://www.youtube.com/watch?v=dPiLuKoPOyI)
+
 
 </br>
 
 ## <span style="color: #bc596a;">Default value can be change</span>
 
 * Sometimes <b>id</b> or <b>class</b> contain some following words so it will ignore still you can change it
-</br>
+<!-- </br> -->
 
 ```ruby
     <!-- <div class="https://....com"> -->
 
     $array_rules_not_include = ["https://", "about:blank", "_blank", "rel=", "target="]
 ```
-
-* The following <b>REGEX</b> ignore any type that contain special chars
 </br>
+* The following <b>REGEX</b> ignore any type that contain special chars
+
 
 ```ruby
     <!-- <div class="btn[[type]]">  -->
     
     $special_char_to_match = /[!@#$%^&*().?":{}\[\]|<>;]/
 ```
-
-* If you did not specify <b>class JAVA name</b> the default will be
 </br>
+* If you did not specify <b>class JAVA name</b> the default will be
+
 
 ```ruby
     $java_class_name = "SeleniumJavaGenerator"
