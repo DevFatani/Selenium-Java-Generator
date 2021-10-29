@@ -29,7 +29,7 @@
 ```
 * <b>Third:</b> You will see message output follow the instructions
 
-* <b>Forth:</b> Follow the following youtube video for more information 👇🏻
+* <b>Forth:</b> Follow the following <b>Youtube</b> video for more information 👇🏻
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dPiLuKoPOyI/0.jpg)](https://www.youtube.com/watch?v=dPiLuKoPOyI)
 
