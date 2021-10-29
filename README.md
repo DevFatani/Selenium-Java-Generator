@@ -33,21 +33,25 @@
 
 * Sometimes <b>id</b> or <b>class</b> contain some following words so it will ignore still you can change it
 </br>
+
 ```ruby
-    # ex: <div class="https://....com">
+    <!-- <div class="https://....com"> -->
 
     $array_rules_not_include = ["https://", "about:blank", "_blank", "rel=", "target="]
 ```
 
 * The following <b>REGEX</b> ignore any type that contain special chars
 </br>
+
 ```ruby
-    # ex: <div class="btn[[type]]"> 
-$special_char_to_match = /[!@#$%^&*().?":{}\[\]|<>;]/
+    <!-- <div class="btn[[type]]">  -->
+    
+    $special_char_to_match = /[!@#$%^&*().?":{}\[\]|<>;]/
 ```
 
 * If you did not specify <b>class JAVA name</b> the default will be
 </br>
+
 ```ruby
     $java_class_name = "SeleniumJavaGenerator"
 ```
