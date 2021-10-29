@@ -1,4 +1,4 @@
-# Selenim JAVA Generator
+# Selenium JAVA Generator
 
 ### Script to convert from <b>HTML</b> to Java Selenium object (<span><b>WebElement</b></span>)
 
