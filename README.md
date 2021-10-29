@@ -18,6 +18,10 @@
 ## <span style="color: #bc596a;">How to use it 👨🏻‍💻</span>
 * <b>First:</b> Clone the project to your device
 
+```shell
+   git https://github.com/DevFatani/Selenim-JAVA-Generator.git
+```
+
 * <b>Second:</b> Run the following command
 
 ```shell
