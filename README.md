@@ -47,6 +47,7 @@
     $array_rules_not_include = ["https://", "about:blank", "_blank", "rel=", "target="]
 ```
 </br>
+
 * The following <b>REGEX</b> ignore any type that contain special chars
 
 
@@ -56,6 +57,7 @@
     $special_char_to_match = /[!@#$%^&*().?":{}\[\]|<>;]/
 ```
 </br>
+
 * If you did not specify <b>class JAVA name</b> the default will be
 
 
